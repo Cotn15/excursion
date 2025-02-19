@@ -1,0 +1,17 @@
+
+.header {
+    font-family: Verdana, sans-serif;
+    font-weight: normal;
+    color: white;
+    font-size: 50px;
+}
+
+.footer {
+    text-align: right;
+    color: gray;
+}
+
+.link {
+ color: aquamarine;
+ font-size: 16px;
+}
