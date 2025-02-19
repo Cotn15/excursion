@@ -1,6 +1,9 @@
 
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
 h1 {
-    font-family: Verdana, sans-serif;
     font-weight: normal;
     color: white;
     font-size: 50px;
