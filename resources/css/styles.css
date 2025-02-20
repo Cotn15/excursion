@@ -1,7 +1,6 @@
 
 * {
     font-family: Verdana, Geneva, Tahoma, sans-serif !important;
-    background-color: black;
 }
 
 h1 {
@@ -9,6 +8,7 @@ h1 {
     color: white;
     font-size: 50px;
     text-align: center;
+    background-color: black;
 }
 
 h2 {
@@ -16,26 +16,31 @@ h2 {
     font-size: 42px;
     text-align: center;
     color: white;
+    background-color: black;
 }
 
 p {
     font-size: 21px;
     color: gray;
     text-align: center;
+    background-color: black;
 }
 
 img {
-    display: block;
+    display: flex;
     align-self: center;
+    background-color: black;
 }
 
 .footer {
     text-align: right;
     color: gray;
+    background-color: black;
 }
 
 .link {
  color: aquamarine;
  font-size: 16px;
  text-align: center;
+ background-color: black;
 }
