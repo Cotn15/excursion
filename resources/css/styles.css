@@ -42,6 +42,10 @@ p {
  text-align: center;
 }
 
+.video {
+    margin: 0px 450px;
+}
+
 .camp {
     margin: 25px 290px;
 }
