@@ -42,7 +42,7 @@ p {
  text-align: center;
 }
 
-video .video {
+video source {
     margin: 0px 450px;
 }
 
